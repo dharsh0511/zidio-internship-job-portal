@@ -115,7 +115,7 @@ npm run dev
 cd InternshipJobPortal
 
 # Set up MySQL database
-# Create a database named: zidio_db
+# Create a database named: job_portal
 
 # Configure your DB username & password in `application.properties`
 
