@@ -7,12 +7,6 @@ This project is divided into two main modules:
 - 🖥️ **Frontend**: React.js + TailwindCSS
 - 🔧 **Backend**: Java Spring Boot + Spring Security + MySQL
 
----
-
-## 📸 **Demo Preview**
-🔗 [Click here to watch the demo video on LinkedIn](https://www.linkedin.com/posts/nitx-patil_zidioconnect-springboot-reactjs-activity-7355280348877934596-uQOP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBgtO8B0cGk7vK7WUI55kzith0grZh87Fg)
-
----
 
 ## 🚀 **Tech Stack**
 
@@ -102,9 +96,7 @@ This project is divided into two main modules:
 
 ### 🖥️ Frontend Setup (React)
 
-```bash
-# Clone the frontend branch
-git clone -b Profile-Management-(Job-Portal)-Front-end-in-react-js https://github.com/Niteshx1661/InternshipJobPortal.git
+
 
 cd InternshipJobPortal
 npm install
@@ -118,9 +110,7 @@ npm run dev
 
 ### 🖥️ Backend Setup (Spring Boot)
 
-```bash
-# Clone backend branch
-git clone -b Profile-Management-(Job-Portal)-Back-End-in-Java-API-and-MySQL https://github.com/Niteshx1661/InternshipJobPortal.git
+
 
 cd InternshipJobPortal
 
@@ -151,8 +141,8 @@ spring.mail.password=your_app_password
 
 ```bash
 InternshipJobPortal/
-├── zidio-frontend/   # React Frontend
-└── zidio-auth1/      # Spring Boot Backend
+├── frontend/   # React Frontend
+└── backend/      # Spring Boot Backend
 ```
 
 ---
@@ -216,24 +206,7 @@ InternshipJobPortal/
 ✅ Tested with Postman & Frontend
 ✅ Fully working authentication with email verification
 
----
 
-## 🤝 **Gratitude**
-Special thanks to **Dr. Smruti Priya** Ma’am for exceptional guidance and mentorship throughout the internship.
-Also thankful to the **Zidio Development** team for providing an opportunity to work on a real-world, production-grade project. This journey helped me understand how enterprise-level applications are planned, structured, and executed.
-
----
-
-## 📎 **GitHub Branch Links**
-- 🔗 [Frontend Branch](https://github.com/Niteshx1661/InternshipJobPortal/tree/Profile-Management-(Job-Portal)-Front-end-in-react-js)
-- 🔗 [Backend Branch](https://github.com/Niteshx1661/InternshipJobPortal/tree/Profile-Management-(Job-Portal)-Back-End-in-Java-API-and-MySQL)
-
----
-
-## 🧑‍💻**Developed By**
-### **Nitesh Patil**
-- 📧 [nitxpatil550@gmail.com](mailto:nitxpatil550@gmail.com)
-- 🌐 [LinkedIn Profile](www.linkedin.com/in/nitx-patil)
 
 ---
 
